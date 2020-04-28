@@ -1,3 +1,3 @@
 function wakeDog() {
-  console.log
+  console.log("Wake Byron the poodle");
 }
