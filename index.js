@@ -18,7 +18,7 @@ let throwFrisbee = function(dogName, dogBreed) {
   return `Throw the frisbee for ${dogName} the ${dogBreed}`;
 };
 
-let walkHome = function walkHome(dogName, dogBreed) {
+let walkHome = function(dogName, dogBreed) {
   console.log(`Walk home with ${dogName} the ${dogBreed}`);
   return `Walk home with ${dogName} the ${dogBreed}`;
 }
